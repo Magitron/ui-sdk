@@ -1,0 +1,34 @@
+{
+  "name": "ui-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maggie Caspar",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.1",
+    "koa-hbs": "^0.9.0",
+    "koa-logger": "^2.0.1",
+    "koa-router": "^5.4.0",
+    "koa-static": "^3.0.0",
+    "co-views": "^2.1.0"
+  },
+  "devDependencies": {
+    "compass": "^0.1.1",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-copy": "^1.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "imagemin-pngquant": "^5.0.0",
+    "normalize": "^0.3.1",
+    "rimraf": "^2.6.1",
+    "run-sequence": "^1.2.2",
+    "susy": "^2.2.12"
+  }
+}
